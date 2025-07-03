@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @msivaswami
-- 👀 I’m interested in epigenomic and transcriptomic data to study cancer.
-- 🌱 I’ve completed my masters degree in Bioinformatics with Distinction and am seeking an opportunity as a PhD student.
-- 💞️ I’m looking to work more on health data.
-- 📫 You can email me at msivaswami103@gmail.com
+- 👀 I’m currently a research associate at the Computational Biology and Cancer Regulatory Genomics Lab at MBZUAI.
+- 🌱 I’ve completed my masters degree in Bioinformatics with Distinction and hope to pursue a PhD.
+- 💞️ I’m looking to work more on health data, network biology and computational methods to build predictive models for disease.
+- 📫 You can email me at msivaswami103@gmail.com or m.sivaswami@mbzuai.ac.ae
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I LOVE to cook, and travel.
 
